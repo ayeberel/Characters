@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6810F5AE-B114-44B7-9B74-456481D20C76"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F45DAC-A09D-4093-BAE7-D0FBF8CA6462"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/ViewModels/Simpsons/SimpsonsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67F45DAC-A09D-4093-BAE7-D0FBF8CA6462 - 1b0eff12ddd5822b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsonsviewer.SimpsonsListViewModel.fetchData() -&gt; ()"
+                  moduleName = "Simpsonsviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayu/Desktop/CharacterViewer/CharacterViewer/ViewModels/Simpsons/SimpsonsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "67F45DAC-A09D-4093-BAE7-D0FBF8CA6462 - 62cb305ada09e416"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Simpsonsviewer.Character&gt;, Simpsonsviewer.NetworkError&gt;) -&gt; () in Simpsonsviewer.SimpsonsListViewModel.fetchData() -&gt; ()"
+                  moduleName = "Simpsonsviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayu/Desktop/CharacterViewer/CharacterViewer/ViewModels/Simpsons/SimpsonsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "67F45DAC-A09D-4093-BAE7-D0FBF8CA6462 - 62705042d9d3de8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Optional&lt;Simpsonsviewer.Character&gt;, Simpsonsviewer.NetworkError&gt;) -&gt; () in Simpsonsviewer.SimpsonsListViewModel.fetchData() -&gt; ()"
+                  moduleName = "Simpsonsviewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayu/Desktop/CharacterViewer/CharacterViewer/ViewModels/Simpsons/SimpsonsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
